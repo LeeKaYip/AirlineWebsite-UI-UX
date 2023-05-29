@@ -1,5 +1,5 @@
 # AirlineWebsite-UI-UX-
-HI, there. I am Lee Ka Yip from Hong Kong. This is Airline Website Project develop in html.This project only developed UI/UX. IF you want to get more detail feel free to contact me in leekayip.0107@gmail.com
+HI, there. I am Lee Ka Yip from Hong Kong. This is Airline Website develop in html.This project only developed UI/UX. IF you want to get more detail feel free to contact me in leekayip.0107@gmail.com
 
 ![螢幕擷取畫面 2023-05-28 222305](https://github.com/LeeKaYip/NetBeanBookingSystemBackend/assets/134273037/6aef969f-3342-4ef2-8ce4-0c576afb3d19)
 ![螢幕擷取畫面 2023-05-28 223429](https://github.com/LeeKaYip/NetBeanBookingSystemBackend/assets/134273037/328195dc-a7ac-4297-bc07-c51f94ef3a2d)
